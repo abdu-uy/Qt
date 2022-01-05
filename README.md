@@ -10,3 +10,5 @@ project ; qt source code;
 <br/>
 **TcpServer(uygur_ui)**<br/>
 ![Alt text](https://github.com/abdu-uy/Qt/blob/main/3.PNG)
+**Auto_DashBord**<br/>
+![Alt text](https://github.com/abdu-uy/Qt/blob/main/images/4.PNG)
