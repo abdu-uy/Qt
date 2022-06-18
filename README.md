@@ -11,7 +11,6 @@ project ; qt source code;
 **TcpServer(uygur_ui)**<br/>
 ![Alt text](https://github.com/abdu-uy/Qt/blob/main/images/3.PNG)<br/>
 **Auto_DashBord**<br/>
-![Alt text](https://github.com/abdu-uy/Qt/blob/main/images/4.PNG)
-<br/>
+![Alt text](https://github.com/abdu-uy/Qt/blob/main/images/4.PNG)<br/>
 **DataBaseQueryApp<br/>
-![Alt_text](https://github.com/abdu-uy/Qt/blob/main/images/123.PNG)
+![Alt_text](https://github.com/abdu-uy/Qt/blob/main/images/123.JPG)
