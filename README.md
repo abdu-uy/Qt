@@ -12,5 +12,5 @@ project ; qt source code;
 ![Alt text](https://github.com/abdu-uy/Qt/blob/main/images/3.PNG)<br/>
 **Auto_DashBord**<br/>
 ![Alt text](https://github.com/abdu-uy/Qt/blob/main/images/4.PNG)<br/>
-**DataBaseQueryApp<br/>
+**DataBaseQueryApp**<br/>
 ![Alt_text](https://github.com/abdu-uy/Qt/blob/main/images/123.JPG)
